@@ -1,7 +1,18 @@
 # ReactJS-ElectronJS Template
+> I love to play around with javascript frameworks!
 ## Instructions
-> git clone https://github.com/EpixCodes/React-ElectronJS.git
-> npm install -g yarn
-> cd <Project Dir>
-> npm install
-> npm start
+```sh
+$ git clone https://github.com/EpixCodes/React-ElectronJS.git
+```
+```sh
+$ npm install -g yarn
+```
+```sh
+$ cd <Project Dir>
+```
+```sh
+$ npm install
+```
+```sh
+$ npm start
+```

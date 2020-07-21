@@ -3,6 +3,7 @@ import logo from '../svg/dashboard.svg';
 import '../css/App.css';
 import Menu from "./menu"
 
+
 class Dashboard extends React.Component {
 
   render() {

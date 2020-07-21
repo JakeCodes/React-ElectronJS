@@ -3,6 +3,7 @@ import Logo from "../svg/chat.svg"
 import Menu from "./menu"
 import "../css/App.css"
 
+
 class Chat extends React.Component {
     render() {
         return (

@@ -9,6 +9,8 @@ import About from "./components/about"
 import Contact from "./components/contact"
 import Chat from "./components/chat"
 
+document.title = "Epix Codes"
+
 ReactDOM.render(
     <Router>
         <Switch>
