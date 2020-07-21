@@ -2,17 +2,17 @@
 > I love to play around with javascript frameworks!
 ## Instructions
 ```sh
-$ git clone https://github.com/EpixCodes/React-ElectronJS.git
+git clone https://github.com/EpixCodes/React-ElectronJS.git
 ```
 ```sh
-$ npm install -g yarn
+npm install -g yarn
 ```
 ```sh
-$ cd <Project Dir>
+cd <Project Dir>
 ```
 ```sh
-$ npm install
+npm install
 ```
 ```sh
-$ npm start
+npm start
 ```
