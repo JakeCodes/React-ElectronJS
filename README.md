@@ -5,10 +5,10 @@
 git clone https://github.com/EpixCodes/React-ElectronJS.git
 ```
 ```sh
-npm install -g yarn
+cd <Project Dir>
 ```
 ```sh
-cd <Project Dir>
+npm install -g yarn
 ```
 ```sh
 npm install
