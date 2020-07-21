@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #202020;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.about {
+  min-height: 100vh;
+  background-color: #202020;
+  color: #FDFFFC;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+.contact {
+  min-height: 100vh;
+  background-color: #202020;
+  color: #FDFFFC;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+.dashboard {
+  background-color: #202020;
+  color: #FDFFFC;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: calc(15px + 2vmin);
+}
+h1 {
+  margin-bottom: 5%;
+  color: #FDFFFC;
+}
+.contact-img {
+  margin-top: 20px;
+}
+.about-img {
+  margin-top: 20px;
+}
+
+
+
