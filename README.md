@@ -16,3 +16,7 @@ npm install
 ```sh
 npm start
 ```
+
+## User Interface
+<img src="ReadMe Dependencies/img/MenuClosed.png"/>
+<img src="ReadMe Dependencies/img/MenuOpen.png"/>
