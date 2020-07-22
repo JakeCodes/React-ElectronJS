@@ -2,7 +2,7 @@
 
 > I love to play around with javascript frameworks!
 
-## prerequisites
+## Prerequisites
 
 > <a target="_blank" href="https://nodejs.org/en/">NodeJS & NPM</a>
 
