@@ -7,7 +7,7 @@
 }
 
 .App-header {
-  background-color: #cfd4db;
+  background-color: #e0e0e0;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -21,41 +21,9 @@
   color: #09d3ac;
 }
 
-.about {
-  min-height: 100vh;
-  background-color: #cfd4db;
-  color: black;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-}
-.contact {
-  min-height: 100vh;
-  background-color: #cfd4db;
-  color: black;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-}
-.dashboard {
-  background-color: #cfd4db;
-  color: black;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  justify-content: center;
-  font-size: calc(15px + 2vmin);
-}
 .all {
   min-height: 100vh;
-  background-color: #cfd4db;
+  background-color: #e0e0e0;
   color: black;
   display: flex;
   flex-direction: column;
@@ -66,7 +34,7 @@
 }
 h1 {
   margin-bottom: 5%;
-  color: #3B5998;
+  color: #3b5998;
 }
 .contact-img {
   margin-top: 20px;
@@ -74,6 +42,3 @@ h1 {
 .about-img {
   margin-top: 20px;
 }
-
-
-
