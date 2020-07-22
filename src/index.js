@@ -10,15 +10,17 @@ import Contact from "./components/contact"
 import Chat from "./components/chat"
 
 document.title = "Epix Codes"
-
 ReactDOM.render(
     <Router>
         <Switch>
+            {/* Pages */}
             <Route exact path="/" component={Dashboard} />
-            <Route exact path="/dashboard" component={Dashboard} />
-            <Route exact path="/about" component={About} />
-            <Route exact path="/contact" component={Contact} />
-            <Route exact path="/chat" component={Chat} />
+            <Route path="/dashboard" component={Dashboard} />
+            <Route path="/about" component={About} />
+            <Route path="/contact" component={Contact} />
+            <Route path="/chat" component={Chat} />
+
+            {/* 404 */}
             <Route component={_404page} />
         </Switch>
     </Router>, 

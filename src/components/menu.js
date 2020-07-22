@@ -2,6 +2,7 @@ import React from 'react';
 import '../css/Menu.css';
 import { Link } from "react-router-dom"
 import "../css/all.min.css"
+import Logo from "../Logo/logo.svg"
 
 class Menu extends React.Component {
 
@@ -16,7 +17,9 @@ class Menu extends React.Component {
         </label>
 
         <div class="sidebar">
-        <header>Epix Codes</header>
+        <header>
+          <img src={Logo} alt="Logo" className="logo-img"/>
+        </header>
             <ul>
                 <li><Link to="/"><i class="fas fa-qrcode"></i>Dashboard</Link></li>
                 <li><Link to="/chat"><i class="fas fa-comment"></i>Chat</Link></li>

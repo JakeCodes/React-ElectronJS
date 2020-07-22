@@ -10,7 +10,7 @@ class Dashboard extends React.Component {
     return (
     <React.Fragment>
       <Menu />
-      <div className="App">
+      <div className="All">
         <header className="App-header">
 
             <h1>Dashboard</h1>

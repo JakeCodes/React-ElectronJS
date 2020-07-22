@@ -3,6 +3,7 @@ import "../css/App.css"
 import Menu from "./menu"
 import { Link } from "react-router-dom"
 
+
 class _404 extends React.Component {
      render() {
         return (

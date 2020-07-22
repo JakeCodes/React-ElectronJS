@@ -7,14 +7,14 @@
 }
 
 .App-header {
-  background-color: #202020;
+  background-color: #cfd4db;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
 }
 
 .App-link {
@@ -23,8 +23,8 @@
 
 .about {
   min-height: 100vh;
-  background-color: #202020;
-  color: #FDFFFC;
+  background-color: #cfd4db;
+  color: black;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -34,8 +34,8 @@
 }
 .contact {
   min-height: 100vh;
-  background-color: #202020;
-  color: #FDFFFC;
+  background-color: #cfd4db;
+  color: black;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -44,8 +44,19 @@
   font-size: calc(10px + 2vmin);
 }
 .dashboard {
-  background-color: #202020;
-  color: #FDFFFC;
+  background-color: #cfd4db;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: calc(15px + 2vmin);
+}
+.all {
+  min-height: 100vh;
+  background-color: #cfd4db;
+  color: black;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -55,7 +66,7 @@
 }
 h1 {
   margin-bottom: 5%;
-  color: #FDFFFC;
+  color: #3B5998;
 }
 .contact-img {
   margin-top: 20px;
