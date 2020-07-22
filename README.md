@@ -18,5 +18,5 @@ npm start
 ```
 
 ## User Interface
-<img src="ReadMe Dependencies/img/MenuClosed.png"/>
-<img src="ReadMe Dependencies/img/MenuOpen.png"/>
+<img src="ReadMe Dependencies/img/MenuClosed.PNG/">
+<img src="ReadMe Dependencies/img/MenuOpen.PNG">
