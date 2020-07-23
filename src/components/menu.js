@@ -2,7 +2,7 @@ import React from "react";
 import "../css/Menu.css";
 import { Link } from "react-router-dom";
 import "../css/all.min.css";
-import Logo from "../Logo/EpixLogo.png";
+import Logo from "../Logo/JakeLogo.png";
 
 class Menu extends React.Component {
   render() {
