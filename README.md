@@ -17,7 +17,7 @@ $ npm install
 ```
 
 ```sh
-npm start
+$ npm start
 ```
 
 ## User Interface
