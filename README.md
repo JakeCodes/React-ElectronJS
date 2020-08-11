@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-> <a target="_blank" href="https://nodejs.org/en/">NodeJS & NPM</a> <br />
+> <a target="_blank" href="https://nodejs.org/en/">NodeJS & NPM</a>
 > <a target="_blank" href="https://git-scm.com/downloads">Git</a>
 
 ## Instructions
