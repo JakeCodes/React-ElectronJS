@@ -8,11 +8,11 @@
 
 ## Instructions
 
-```
+```sh
 $ npm install -g yarn
 ```
 
-```
+```sh
 $ npm install
 ```
 
